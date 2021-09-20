@@ -20,10 +20,8 @@ Me chamo Matheus Florêncio!
     <a href="https://www.youtube.com/channel/UCH1VWs-9V63VyGkrcSbtXIg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> <!-- Youtube -->
   <a href="https://www.instagram.com/1matheusflorencio/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <!-- Instagram -->
   <a href = "mailto:contactmatheusflorencio@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <!-- E-mail -->
+        ![Snake animation](https://github.com/1matheusflorencio/1matheusflorencio/blob/output/github-contribution-grid-snake.svg)
+   
 </div>
   
  ## 
- 
- <div>
-     ![Snake animation](https://github.com/1matheusflorencio/1matheusflorencio/blob/output/github-contribution-grid-snake.svg)
- </div>
