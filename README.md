@@ -3,7 +3,8 @@ Me chamo Matheus Florêncio!
 
 - 🌱 Atualmente estou aprendendo tudo! 🤣
 - 🔭 Busco oportunidades no Front-End;
-- 👨‍🎓 Cursando Análise e Desenvolvimento de Sistemas na Univali. 
+- 👨‍🎓 Cursando Análise e Desenvolvimento de Sistemas na Univali;
+- 👨‍💻 Estudando Fornt-End na Alura. 
 
  ##
 
