@@ -84,7 +84,7 @@ const desenvolvedor = {
  ##
  
  <h3>GitHub Status e Linguagens</h3>
- <p>Em busca daquele 'S' no status</p>
+ <p>Em busca daquele 'S' no stats</p>
  <br>
  <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=1matheusflorencio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -95,7 +95,7 @@ const desenvolvedor = {
  ## 
  
  <h3>GitHub Snake</h3>
- <p>Não é nenhuma Nagini...</p>
+ <p>Não é nenhuma Nagini... 🐍</p>
  <br>
  
  <!-- Animação dos progressos -->
