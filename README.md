@@ -66,7 +66,7 @@ const desenvolvedor = {
  <h3>Repositórios</h3>
  <p>Aqui está as siglas que uso para manter os repositórios organizados</p>
  
-- Pessoal - Aqui ficão organizados os meus trabaalhos pessoais;
+- Pessoal - Aqui ficão organizados os meus projetos pessoais;
 - Alura - Aqui são projetos dos cursos que estou fazendo na <a href="https://www.alura.com.br/" target="_blank">Alura</a> 💙;
 - ADS - Aqui estão organizados os projetos do Curso de Análise e Desenvolvimento de Sistemas;
 
