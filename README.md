@@ -90,7 +90,6 @@ const desenvolvedor = {
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1matheusflorencio&layout=compact&langs_count=7&theme=dark"/>
 </div>
  
-  
  ## 
  
  <h3>GitHub Snake</h3>
@@ -99,7 +98,6 @@ const desenvolvedor = {
  
  <!-- Animação dos progressos -->
  ![Snake animation](https://github.com/1matheusflorencio/1matheusflorencio/blob/output/github-contribution-grid-snake.svg)
-
 
 ##
 
