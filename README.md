@@ -74,6 +74,7 @@ const desenvolvedor = {
  <h3>Contribuições</h3>
  <p>17 de outubro de 2021 começei a fazer commits todos os dias para me desafiar, então aqui ⬇️ está a minha 'Streak' atual!</p>
  <br>
+ 
  <div align="center">
  
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=1matheusflorencio&theme=blue-green&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
