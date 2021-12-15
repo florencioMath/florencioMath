@@ -1,7 +1,5 @@
 <img src="https://raw.githubusercontent.com/1matheusflorencio/1matheusflorencio/main/README%20arquivos/GitHub%20Banner.gif">
-
 <br>
-
 <div align="center">
  <!-- Github -->
  <a href="https://github.com/1matheusflorencio" target="_blank"><img src="https://github.com/1matheusflorencio/1matheusflorencio/blob/main/README%20arquivos/icons8-github-48.png?raw=true"></a>
