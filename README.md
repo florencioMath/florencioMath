@@ -52,7 +52,7 @@ const desenvolvedor = {
 <img align="right" width="30%" src="https://github.com/1matheusflorencio/1matheusflorencio/blob/main/README%20arquivos/my-octocat-1635129778574.png?raw=true">
 <br><br>
 <h3>O que estou fazendo</h3>
-- 🚀 Trabalhando na <a href="https://ed.company/" target="_blank">Ed Company</a> <br>
+- 🚀 Desenvolvedor Front-End na <a href="https://ed.company/" target="_blank">Ed Company</a> <br>
 - 🌱 Aprendendo um pouco de tudo! 🤣; <br>
 - 👨‍🎓 Cursando Análise e Desenvolvimento de Sistemas na Univali; <br>
 - 👨‍💻 Estudando Front-End na Alura.
