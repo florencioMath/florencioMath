@@ -74,7 +74,7 @@ const desenvolvedor = {
  
  <h3>Contribuições</h3>
  
- <p>17 de outubro de 2021 começei a fazer commits todos os dias para me desafiar, então aqui ⬇️ está a minha 'Streak' atual!</p>
+ <p>Aqui ⬇️ está a minha 'Streak' atual!</p>
  <br>
  
  <div align="center">
