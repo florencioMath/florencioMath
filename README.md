@@ -17,9 +17,7 @@
  <p align="center">Você pode me encontrar ali ⬆️</p>
 </div>
 
-
 ##
-
 
 <h3>Sobre</h3>
 
