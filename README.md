@@ -40,10 +40,10 @@ const desenvolvedor = {
     softwares: ["Figma", "Adobe XD", "Canva"],
   },
   softskills: {
-    "Vontade de aprender",
-    "Curiosidade",
-    "Trabalho em equipe",
-    "Boa Comunicação",
+    "Team Work",
+    "Organization",
+    "Problem-Solving",
+    "Creativity",
   }
 };
 
