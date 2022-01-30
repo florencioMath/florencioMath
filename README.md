@@ -57,18 +57,18 @@ const developer = {
 - 🚀 Front-End Developer at <a href="https://ed.company/" target="_blank">Ed Company</a> <br>
 - 🌱 Studying Angular, TypeScript, UX Design and a little of everything! 🤣; <br>
 - 👨‍🎓 Studying Systems Analysis and Development at Univali; <br>
-- 👨‍💻 Studying more of everything at Alura.
+- 👨‍💻 Studying a little more of everything at Alura.
 <br><br><br><br>
 
 ##
 
- <h3>Repositórios</h3>
+ <h3>Repositories</h3>
  
- <p>Aqui está as siglas que uso para manter os repositórios organizados</p>
+ <p>Here are the acronyms I use to keep repositories organized.</p>
  
-- Pessoal - Aqui ficão organizados os meus projetos pessoais;
-- Alura - Aqui são projetos dos cursos que estou fazendo na <a href="https://www.alura.com.br/" target="_blank">Alura</a> 💙;
-- ADS - Aqui estão organizados os projetos do Curso de Análise e Desenvolvimento de Sistemas;
+- Personal - My personal projects are organized here;
+- Alura - Here are projects from the courses I'm taking at <a href="https://www.alura.com.br/" target="_blank">Alura</a>;
+- ADS - Here I keep organized the projects of the Systems Analysis and Development Course;
 
  ##
  
