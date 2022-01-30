@@ -19,7 +19,7 @@
 
 ##
 
-<h3>Sobre</h3>
+<h3>About</h3>
 
 ```javascript
 
@@ -53,7 +53,7 @@ const developer = {
 
 <img align="right" width="30%" src="https://github.com/1matheusflorencio/1matheusflorencio/blob/main/README%20arquivos/my-octocat-1635129778574.png?raw=true">
 <br><br>
-<h3>O que estou fazendo</h3>
+<h3>What I`m up to</h3>
 - 🚀 Front-End Developer at <a href="https://ed.company/" target="_blank">Ed Company</a> <br>
 - 🌱 Studying Angular, TypeScript, UX Design and a little of everything! 🤣; <br>
 - 👨‍🎓 Studying Systems Analysis and Development at Univali; <br>
