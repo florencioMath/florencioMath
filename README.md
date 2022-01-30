@@ -85,8 +85,8 @@ const developer = {
  
  ##
  
- <h3>GitHub Status e Linguagens</h3>
- <p>Em busca daquele 'S' no stats</p>
+ <h3>GitHub Status and Languages</h3>
+ <p>In search of the S on the 'Status'</p>
  <br>
  <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=1matheusflorencio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
