@@ -72,9 +72,9 @@ const developer = {
 
  ##
  
- <h3>Contribuições</h3>
+ <h3>Contributions</h3>
  
- <p>Aqui ⬇️ está a minha 'Streak' atual!</p>
+ <p>Here ⬇️ are my 'Streaks'! Recentely I reorganized my repositories and lost some of the days that I had done some commits.</p>
  <br>
  
  <div align="center">
