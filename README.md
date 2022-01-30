@@ -85,7 +85,7 @@ const developer = {
  
  ##
  
- <h3>GitHub Status and Languages</h3>
+ <h3>Status and Languages</h3>
  <p>In search of the S on the 'Status'</p>
  <br>
  <div align="center">
@@ -95,8 +95,8 @@ const developer = {
  
  ## 
  
- <h3>GitHub Snake</h3>
- <p>Não é nenhuma Nagini... 🐍</p>
+ <h3>The Snake</h3>
+ <p>Nagini... Dinner! 🐍</p>
  <br>
  
  <!-- Animação dos progressos -->
