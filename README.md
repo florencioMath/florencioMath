@@ -14,7 +14,7 @@
  <!-- Youtube -->
  <a href="https://www.youtube.com/channel/UCH1VWs-9V63VyGkrcSbtXIg" target="_blank"><img src="https://github.com/1matheusflorencio/1matheusflorencio/blob/main/README%20arquivos/icons8-youtube-48.png?raw=true"></a>
  <br>
- <p align="center">Você pode me encontrar ali ⬆️</p>
+ <p align="center">You can find me there ⬆️</p>
 </div>
 
 ##
@@ -32,7 +32,7 @@ const desenvolvedor = {
   },
  curiosities: {
     love: "coffee (a lot)",
-    hobbies: ["Ler", "Exercício", "Programar", "Séries", "Podcasts"],
+    hobbies: ["Read", "Exercise", "Code", "Series", "Podcasts"],
   },
  hardskills: {
     languages: ["HTML", "CSS", "Javascript"],
