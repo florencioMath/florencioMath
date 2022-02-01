@@ -70,7 +70,7 @@ const developer = {
 - Personal - My personal projects are organized here;
 - Challenge - Is a specific Challenge from a Course or Internet video;
 - Course - Here are projects from the courses I'm taking;
-- UNIV - Here I keep organized University courses;
+- University - Here I keep organized University code that I had to develop;
   - ADS - When there is this abbreviation, it's about the projects of the Systems Analysis and Development Course;
 
  ##
