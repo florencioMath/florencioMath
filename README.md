@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/1matheusflorencio/1matheusflorencio/main/README%20arquivos/GitHub%20Banner.gif">
+<img src="https://github.com/1matheusflorencio/1matheusflorencio/blob/main/README%20arquivos/banner.gif">
 
 <br>
 
