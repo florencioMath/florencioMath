@@ -1,4 +1,4 @@
-<img src="https://github.com/1matheusflorencio/1matheusflorencio/blob/main/README%20arquivos/banner.gif">
+<img src="https://github.com/1matheusflorencio/1matheusflorencio/blob/main/README%20arquivos/banner%20black.gif?raw=true">
 
 <br>
 
@@ -54,10 +54,9 @@ const developer = {
 <img align="right" width="30%" src="https://github.com/1matheusflorencio/1matheusflorencio/blob/main/README%20arquivos/my-octocat-1635129778574.png?raw=true">
 <br><br>
 <h3>What I'm up to</h3>
-- 🚀 Front-End Developer at <a href="https://ed.company/" target="_blank">Ed Company</a> <br>
-- 🌱 Studying Angular, TypeScript, UX Design and a little of everything! 🤣; <br>
-- 👨‍🎓 Studying Systems Analysis and Development at Univali; <br>
-- 👨‍💻 Studying a little more of everything at Alura.
+- 🚀 Full Stack Developer at <a href="https://ed.company/" target="_blank">Ed Company</a> <br>
+- 🌱 Studying Angular, TypeScript, UX/UI, C#, SQL .NET and a little of everything! 🤣; <br>
+- 👨‍🎓 Coursing Systems Analysis and Development at Univali; <br>
 <br><br><br><br>
 
 ##
@@ -81,7 +80,7 @@ const developer = {
  
  <div align="center">
  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=1matheusflorencio&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=1matheusflorencio&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
  
 </div>
  
