@@ -35,8 +35,8 @@ const developer = {
     hobbies: ["Read", "Exercise", "Code", "Series", "Podcasts"],
   },
  hardskills: {
-    languages: ["HTML", "CSS", "Javascript"],
-    frameworks: ["Angular"],
+    languages: ["HTML", "CSS", "Javascript", "TypeScript", "C#"],
+    frameworks: ["Angular", ".NET"],
     softwares: ["Figma", "Adobe XD", "Canva"],
   },
   softskills: {
