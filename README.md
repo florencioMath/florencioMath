@@ -1,21 +1,21 @@
-<img src="https://github.com/1matheusflorencio/1matheusflorencio/blob/main/README%20arquivos/banner%20black.gif?raw=true">
+<img src="https://github.com/1matheusflorencio/1matheusflorencio/blob/main/README%20arquivos/Github%20Header.gif?raw=true">
 
 <br>
 
-<div align="center">
+<!-- <div align="center">
  <!-- Github -->
- <a href="https://github.com/1matheusflorencio" target="_blank"><img src="https://github.com/1matheusflorencio/1matheusflorencio/blob/main/README%20arquivos/icons8-github-50-black.png?raw=true"></a>
- <!-- LinkedIn -->
- <a href="https://www.linkedin.com/in/matheus-flor%C3%AAncio/" target="_blank"><img src="https://github.com/1matheusflorencio/1matheusflorencio/blob/main/README%20arquivos/icons8-linkedin-circled-50-black.png?raw=true"></a>
+<!--  <a href="https://github.com/1matheusflorencio" target="_blank"><img src="https://github.com/1matheusflorencio/1matheusflorencio/blob/main/README%20arquivos/icons8-github-50-black.png?raw=true"></a> -->
+<!--  <!-- LinkedIn -->
+<!--  <a href="https://www.linkedin.com/in/matheus-flor%C3%AAncio/" target="_blank"><img src="https://github.com/1matheusflorencio/1matheusflorencio/blob/main/README%20arquivos/icons8-linkedin-circled-50-black.png?raw=true"></a> -->
  <!-- Twitter -->
- <a href="https://twitter.com/florencioMath" target="_blank"><img src="https://github.com/1matheusflorencio/1matheusflorencio/blob/main/README%20arquivos/icons8-twitter-circled-50-black.png?raw=true"></a>
+<!--  <a href="https://twitter.com/florencioMath" target="_blank"><img src="https://github.com/1matheusflorencio/1matheusflorencio/blob/main/README%20arquivos/icons8-twitter-circled-50-black.png?raw=true"></a> -->
  <!-- Instagram -->
- <a href="https://www.instagram.com/1matheusflorencio/" target="_blank"><img src="https://github.com/1matheusflorencio/1matheusflorencio/blob/main/README%20arquivos/icons8-instagram-50-black.png?raw=true"></a>
+<!--  <a href="https://www.instagram.com/1matheusflorencio/" target="_blank"><img src="https://github.com/1matheusflorencio/1matheusflorencio/blob/main/README%20arquivos/icons8-instagram-50-black.png?raw=true"></a> -->
  <!-- Youtube -->
- <a href="https://www.youtube.com/channel/UCH1VWs-9V63VyGkrcSbtXIg" target="_blank"><img src="https://github.com/1matheusflorencio/1matheusflorencio/blob/main/README%20arquivos/icons8-youtube-50-black.png?raw=true"></a>
+<!--  <a href="https://www.youtube.com/channel/UCH1VWs-9V63VyGkrcSbtXIg" target="_blank"><img src="https://github.com/1matheusflorencio/1matheusflorencio/blob/main/README%20arquivos/icons8-youtube-50-black.png?raw=true"></a>
  <br>
  <p align="center">You can find me there ⬆️</p>
-</div>
+</div> --> 
 
 ##
 
