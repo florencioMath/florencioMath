@@ -48,9 +48,9 @@ const developer = {
 <img align="right" width="30%" src="https://github.com/1matheusflorencio/1matheusflorencio/blob/main/README%20arquivos/my-octocat-1635129778574.png?raw=true">
 <br><br>
 <h3>What I'm up to</h3>
-- 🚀 Full Stack Developer at <a href="https://ed.company/" target="_blank">Ed Company</a> <br>
-- 🌱 Studying Angular, TypeScript, UX/UI, C#, SQL .NET and a little of everything! 🤣; <br>
-- 👨‍🎓 Coursing Systems Analysis and Development at Univali; <br>
+- 🚀 Front-End Developer at <a href="https://ed.company/" target="_blank">Ed Company</a> <br>
+- 🌱 Studying Angular, React, JavaScript, TypeScript, UX/UI, C#, SQL .NET and a little of everything! 🤣; <br>
+- 👨‍🎓 Coursing Systems Analysis and Development at <a href="https://www.univali.br/" target="_blank">Univali</a>; <br>
 <br><br><br><br>
 
 ##
