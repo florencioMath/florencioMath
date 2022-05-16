@@ -15,41 +15,11 @@
 
 <h3>About</h3>
 
-```javascript
-
-const developer = {
-
- profile: {
-    name: "Matheus Florêncio",
-    age: 26,
-    location: "SC, Brasil",
-  },
- curiosities: {
-    love: "coffee (a lot)",
-    hobbies: ["Read", "Exercise", "Code", "Series", "Podcasts"],
-  },
- hardskills: {
-    languages: ["HTML", "CSS", "Javascript", "TypeScript", "C#"],
-    frameworks: ["Angular", ".NET"],
-    softwares: ["Figma", "Adobe XD", "Canva"],
-  },
-  softskills: {
-    "Team Work",
-    "Organization",
-    "Problem-Solving",
-    "Creativity",
-  }
-};
-
-```
-
-##
-
 <img align="right" width="30%" src="https://github.com/1matheusflorencio/1matheusflorencio/blob/main/README%20arquivos/my-octocat-1635129778574.png?raw=true">
 <br><br>
 <h3>What I'm up to</h3>
 - 🚀 Front-End Developer at <a href="https://ed.company/" target="_blank">Ed Company</a> <br>
-- 🌱 Studying Angular, React, JavaScript, TypeScript, UX/UI, C#, SQL .NET and a little of everything! 🤣; <br>
+- 🌱 Studying React, JavaScript, TypeScript, UX/UI and a little of everything! 🤣; <br>
 - 👨‍🎓 Coursing Systems Analysis and Development at <a href="https://www.univali.br/" target="_blank">Univali</a>; <br>
 <br><br><br><br>
 
