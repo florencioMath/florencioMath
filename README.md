@@ -49,7 +49,7 @@
  
  <div align="center">
  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=1matheusflorencio&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=florencioMath&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
  
 </div>
  
@@ -70,7 +70,7 @@
  <br>
  
  <!-- Animação dos progressos -->
- ![Snake animation](https://github.com/1matheusflorencio/1matheusflorencio/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/florencioMath/florencioMath/blob/output/github-contribution-grid-snake.svg)
 
 ##
 
