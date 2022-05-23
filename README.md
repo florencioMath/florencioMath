@@ -10,7 +10,7 @@
  <!-- Instagram -->
 <a href="https://www.instagram.com/florenciomath/" target="_blank"><img src="https://github.com/1matheusflorencio/1matheusflorencio/blob/main/README%20arquivos/icons8-instagram-48.png?raw=true"></a>
   <!-- VSCO -->
-<a href="https://vsco.co/florenciomath" target="_blank"><img src="https://github.com/1matheusflorencio/1matheusflorencio/blob/main/README%20arquivos/icons8-vsco-48.png?raw=true"></a>
+<!-- <a href="https://vsco.co/florenciomath" target="_blank"><img src="https://github.com/1matheusflorencio/1matheusflorencio/blob/main/README%20arquivos/icons8-vsco-48.png?raw=true"></a> -->
  <br>
  <p align="center">You can find me there ⬆️</p>
  
