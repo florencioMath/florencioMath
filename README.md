@@ -1,5 +1,5 @@
 <img src="https://github.com/florencioMath/florencioMath/blob/main/README%20arquivos/GithubHeaderDark.gif?raw=true#gh-dark-mode-only">
-<img src="https://github.com/florencioMath/florencioMath/blob/main/README%20arquivos/GithubHeaderLight.gif?raw=true#gh-light-mode-only">
+<img src="https://github.com/florencioMath/florencioMath/blob/main/README%20arquivos/GithubHeaderWhite.gif?raw=true#gh-light-mode-only">
 
 <br>
 
