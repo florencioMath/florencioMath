@@ -57,7 +57,6 @@
  ##
  
  <h3>Status and Languages</h3>
- <p>In search of the S on the 'Status'</p>
  <br>
  <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=florencioMath&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
