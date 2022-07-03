@@ -4,8 +4,6 @@
 <br>
 
 <div align="center">
- <!-- Twitter -->
-<a href="https://twitter.com/florencioMath" target="_blank"><img src="https://github.com/1matheusflorencio/1matheusflorencio/blob/main/README%20arquivos/icons8-twitter-squared-48.png?raw=true"></a>
 <!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/matheus-flor%C3%AAncio/" target="_blank"><img src="https://github.com/1matheusflorencio/1matheusflorencio/blob/main/README%20arquivos/icons8-linkedin-48.png?raw=true"></a>
  <!-- Instagram -->
