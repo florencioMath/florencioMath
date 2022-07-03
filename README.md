@@ -1,18 +1,6 @@
 <img src="https://github.com/florencioMath/florencioMath/blob/main/README%20arquivos/GithubHeaderDark.gif?raw=true#gh-dark-mode-only">
 <img src="https://github.com/florencioMath/florencioMath/blob/main/README%20arquivos/GithubHeaderWhite.gif?raw=true#gh-light-mode-only">
 
-<br>
-
-<div align="center">
-<!-- LinkedIn -->
-<a href="https://www.linkedin.com/in/matheus-flor%C3%AAncio/" target="_blank"><img src="https://github.com/1matheusflorencio/1matheusflorencio/blob/main/README%20arquivos/icons8-linkedin-48.png?raw=true"></a>
- <!-- Instagram -->
-<a href="https://www.instagram.com/florenciomath/" target="_blank"><img src="https://github.com/1matheusflorencio/1matheusflorencio/blob/main/README%20arquivos/icons8-instagram-48.png?raw=true"></a>
- <br>
- <p align="center">You can find me there ⬆️</p>
- 
-</div>
-
 ##
 
 <h3>About</h3>
