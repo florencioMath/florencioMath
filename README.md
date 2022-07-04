@@ -3,8 +3,6 @@
 
 ##
 
-<h3>About</h3>
-
 <img align="right" width="30%" src="https://github.com/1matheusflorencio/1matheusflorencio/blob/main/README%20arquivos/my-octocat-1635129778574.png?raw=true">
 <br><br>
 <h3>What I'm up to</h3>
