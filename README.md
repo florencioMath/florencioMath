@@ -47,5 +47,14 @@
 
 ##
 
+ <h3>The Snake</h3>
+ <p>Nagini... Dinner! 🐍</p>
+ <br>
+ 
+ <!-- Animação dos progressos -->
+ ![Snake animation](https://github.com/florencioMath/florencioMath/blob/output/github-contribution-grid-snake.svg)
+
+##
+
  <br>
  <p width="100%" align="center"><a href="https://youtu.be/Iu1qa8N2ID0">Live long and prosper</a> 🖖</p>
