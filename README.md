@@ -44,15 +44,6 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=florencioMath&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=florencioMath&layout=compact&langs_count=7&theme=dark"/>
 </div>
- 
- ## 
- 
- <h3>The Snake</h3>
- <p>Nagini... Dinner! 🐍</p>
- <br>
- 
- <!-- Animação dos progressos -->
- ![Snake animation](https://github.com/florencioMath/florencioMath/blob/output/github-contribution-grid-snake.svg)
 
 ##
 
