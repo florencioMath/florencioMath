@@ -18,6 +18,13 @@
 <br />
 <br />
 
+
+<!-- Socials -->
+# 🌎 Socials
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/florencioMatheus) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/florenciomath) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/matheus-florêncio) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16268941) 
+<br />
+<br />
+
 <!-- Repositories -->
  # 🗂️ Repositories
  <p>Here are the acronyms I use to keep repositories organized.</p>
@@ -28,11 +35,7 @@
   - ADS - When there is this abbreviation, it's about the projects of the Systems Analysis and Development Course;
 <br />
 
-<!-- Socials -->
-# 🌎 Socials
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/florencioMatheus) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/florenciomath) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/matheus-florêncio) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16268941) 
-<br />
-<br />
+
 
 <!-- Tech Stack -->
 # 👨‍💻 Tech Stack
