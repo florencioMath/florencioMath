@@ -2,7 +2,7 @@
 <img src="https://github.com/florencioMath/florencioMath/blob/main/README%20arquivos/GithubHeaderWhite.gif?raw=true#gh-light-mode-only">
 
 <!-- About -->
-# 🙋‍♂️ About
+# About
 <img align="right" width="30%" src="https://github.com/1matheusflorencio/1matheusflorencio/blob/main/README%20arquivos/my-octocat-1635129778574.png?raw=true">
 <br />
 
@@ -20,7 +20,7 @@
 
 
 <!-- Socials -->
-# 🌎 Socials
+# Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/matheus-florêncio)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/florenciomath)
@@ -31,7 +31,7 @@
 <br />
 
 <!-- Repositories -->
- # 🗂️ Repositories
+ # Repositories
  <p>Here are the acronyms I use to keep repositories organized.</p>
 - Personal - My personal projects are organized here;
 - Challenge - Is a specific Challenge from a Course or Internet video;
@@ -39,10 +39,9 @@
 - University - Here I keep organized University code that I had to develop;
   - ADS - When there is this abbreviation, it's about the projects of the Systems Analysis and Development Course;
 <br />
+<br />
 
-
-
-# 👨‍💻 Tech Stack
+# Tech Stack
 
  <h3>Languages</h3>
  
@@ -103,9 +102,10 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) 
 <br />
+<br />
 
 <!-- GitHub Stats  -->
- # 📊 GitHub Stats
+ # GitHub Stats
  
 <!-- Streak -->
  <h3>Streaks</h3>
@@ -117,6 +117,7 @@
  
 </div>
 <br />
+<br />
 
  
 <!-- Stats and Langagues -->
@@ -127,10 +128,11 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=florencioMath&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <br />
+<br />
 
 
  <h3>The Snake</h3>
- <p>Nagini... Dinner! 🐍</p>
+ <p>Nagini... Dinner!</p>
  <br>
  
  <!-- Snake -->
