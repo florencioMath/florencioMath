@@ -11,7 +11,7 @@
 - 🕵️ I'm a FrontEnd developer, with 1 year plus of experience, I've worked with HTML/ CSS (SCSS), Javascript, Typescript, Bootstrap, React, Angular, Git, Azure DevOps.
 - 🚀 Currently working as a Front-End Developer at <a href="https://ed.company/" target="_blank">ED</a> <br>
 - 🌱 Studying React, JavaScript, TypeScript, UX/UI and a little of everything! 🤣; <br>
-- 👨‍🎓 Coursing Systems Analysis and Development at <a href="https://www.univali.br/" target="_blank">Univali</a>; <br>
+- 👨‍🎓 Attending the 5th Period of the Systems Analysis and Development Course at <a href="https://www.univali.br/" target="_blank">Univali</a>; <br>
 <br />
 <br />
 <br />
