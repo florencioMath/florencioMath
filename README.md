@@ -117,8 +117,6 @@
  
 </div>
 <br />
-<br />
-
  
 <!-- Stats and Langagues -->
  <h3>Stats and Languages</h3>
@@ -128,8 +126,6 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=florencioMath&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <br />
-<br />
-
 
  <h3>The Snake</h3>
  <p>Nagini... Dinner!</p>
