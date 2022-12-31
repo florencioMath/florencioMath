@@ -7,7 +7,6 @@
 <br />
 
 
-
 - 🕵️ I'm a FrontEnd developer, with 1 year plus of experience, I've worked with HTML/ CSS (SCSS), Javascript, Typescript, Bootstrap, React, Angular, Git, Azure DevOps.
 - 🚀 Currently working as a Front-End Developer at <a href="https://ed.company/" target="_blank">ED</a> <br>
 - 🌱 Studying React, JavaScript, TypeScript, UX/UI and a little of everything! 🤣; <br>
@@ -133,4 +132,3 @@
  
  <!-- Snake -->
  ![Snake animation](https://github.com/florencioMath/florencioMath/blob/output/github-contribution-grid-snake.svg)
-
