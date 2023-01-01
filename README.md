@@ -6,7 +6,6 @@
 <img align="right" width="30%" src="https://github.com/1matheusflorencio/1matheusflorencio/blob/main/README%20arquivos/my-octocat-1635129778574.png?raw=true">
 <br />
 
-
 - 🕵️ I'm a FrontEnd developer, with 1 year plus of experience, I've worked with HTML/ CSS (SCSS), Javascript, Typescript, Bootstrap, React, Angular, Git, Azure DevOps.
 - 🚀 Currently working as a Front-End Developer at <a href="https://ed.company/" target="_blank">ED</a> <br>
 - 🌱 Studying React, JavaScript, TypeScript, UX/UI and a little of everything! 🤣; <br>
@@ -16,7 +15,6 @@
 <br />
 <br />
 <br />
-
 
 <!-- Socials -->
 # Socials
