@@ -23,7 +23,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/florenciomath)
 [![Behance](https://img.shields.io/badge/Behance-1769ff.svg?style=for-the-badge&logo=Behance&logoColor=white)](https://behance.net/florencioMatheus)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16.svg?style=for-the-badge&logo=Stackoverflow&logoColor=white)](https://stackoverflow.com/users/16268941) 
-![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)
+[![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)](https://www.duolingo.com/profile/MathFlorencio)
 <br />
 <br />
 
