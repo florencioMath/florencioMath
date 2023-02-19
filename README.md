@@ -6,10 +6,10 @@
 <img align="right" width="30%" src="https://github.com/1matheusflorencio/1matheusflorencio/blob/main/README%20arquivos/my-octocat-1635129778574.png?raw=true">
 <br />
 
-- 🕵️ I'm a FrontEnd developer, with 1 year plus of experience, I've worked with HTML/ CSS (SCSS), Javascript, Typescript, Bootstrap, React, Angular, Git, Azure DevOps.
-- 🚀 Currently working as a Front-End Developer at <a href="https://ed.company/" target="_blank">ED</a> <br>
-- 🌱 Studying React, JavaScript, TypeScript, UX/UI and a little of everything! 🤣; <br>
-- 👨‍🎓 Attending the 5th Period of the Systems Analysis and Development Course at <a href="https://www.univali.br/" target="_blank">Univali</a>; <br>
+- I'm a Software Engineer from Brazil, my goal is to create great experiences, putting myself in the user's shoes and aiming for an intuitive quality product.
+- I have more than a year of experience developing with React and Angular technologies, with languages and superset Javascript, Typescript, Java, C# and using agile methodologies.
+- My study focus is on ReactJS, React Native and Node.js using Rocketseat's Ignite track.
+- Training in progress in the last period of Systems Analysis and Development.
 <br />
 <br />
 <br />
