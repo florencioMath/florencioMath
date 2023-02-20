@@ -38,12 +38,6 @@
 - University - Here I keep organized University code that I had to develop;
   - ADS - When there is this abbreviation, it's about the projects of the Systems Analysis and Development Course;
 <br />
-<br />
-
-# Tech Stack
-
-
-<br />
 
 <!-- GitHub Stats  -->
  # GitHub Stats
