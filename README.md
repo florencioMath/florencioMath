@@ -19,7 +19,7 @@
 <!-- Socials -->
 # Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23000000.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/matheus-florêncio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23000000.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/florenciomath/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23000000.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/florenciomath)
 [![Behance](https://img.shields.io/badge/Behance-%23000000.svg?style=for-the-badge&logo=Behance&logoColor=white)](https://behance.net/florencioMatheus)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-%23000000.svg?style=for-the-badge&logo=Stackoverflow&logoColor=white)](https://stackoverflow.com/users/16268941) 
