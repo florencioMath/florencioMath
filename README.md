@@ -1,23 +1,23 @@
-<img src="https://github.com/florencioMath/florencioMath/blob/main/README%20arquivos/GithubHeaderDark.gif?raw=true#gh-dark-mode-only">
-<img src="https://github.com/florencioMath/florencioMath/blob/main/README%20arquivos/GithubHeaderWhite.gif?raw=true#gh-light-mode-only">
+<img src="readmeFiles/github-dark-mode.png?raw=true#gh-dark-mode-only">
+<img src="readmeFiles/github-light-mode.png?raw=true#gh-light-mode-only">
 
-<!-- About -->
-# About
+<!-- Sobre -->
+# Sobre
 <img align="right" width="30%" src="https://github.com/1matheusflorencio/1matheusflorencio/blob/main/README%20arquivos/my-octocat-1635129778574.png?raw=true">
 <br />
 
-- I'm a Software Engineer from Brazil, my goal is to create great experiences, putting myself in the user's shoes and aiming for an intuitive quality product.
-- I have more than a year of experience developing with React and Angular technologies, with languages and superset Javascript, Typescript, Java, C# and using agile methodologies.
-- My study focus is on ReactJS, React Native and Node.js using Rocketseat's Ignite track.
-- Training in progress in the last period of Systems Analysis and Development.
+- Sou um Software Engineer do Brasil, meu objetivo é criar ótimas experiências, me colocando no lugar do usuário e visando um produto intuitivo de qualidade.
+- Tenho mais de um ano de experiência desenvolvendo com tecnologias React e Angular, com linguagens e superset Javascript, Typescript, Java, C# e utilizando métodos ágeis.
+- Meu foco de estudo é ReactJS, React Native e Node.js usando a trilha Ignite da Rocketseat.
+- Formação em curso no último período de Análise e Desenvolvimento de Sistemas.
 <br />
 <br />
 <br />
 <br />
 <br />
 
-<!-- Socials -->
-# Socials
+<!-- Social -->
+# Social
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%23000000.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/florenciomath/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23000000.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/florenciomath)
@@ -27,16 +27,16 @@
 <br />
 <br />
 
-<!-- Repositories -->
- # Repositories
+<!-- Repositórios -->
+ # Repositórios
  
  <p>Here are the acronyms I use to keep repositories organized.</p>
  
-- Personal - My personal projects are organized here;
-- Challenge - Is a specific Challenge from a Course or Internet video;
-- Course - Here are projects from the courses I'm taking;
-- University - Here I keep organized University code that I had to develop;
-  - ADS - When there is this abbreviation, it's about the projects of the Systems Analysis and Development Course;
+- Personal - Meus projetos pessoais são organizados aqui;
+- Challenge - É um Desafio específico de um Curso ou vídeo da Internet;
+- Course - Aqui estão os projetos dos cursos que estou fazendo;
+- University - Aqui mantenho organizado o código dos projetos da Universidade;
+   - ADS - Quando houver esta abreviação, trata-se dos projetos do Curso de Análise e Desenvolvimento de Sistemas;
 <br />
 
 <!-- GitHub Stats  -->
@@ -53,8 +53,8 @@
 </div>
 <br />
  
-<!-- Stats and Langagues -->
- <h3>Stats and Languages</h3>
+<!-- Status e Linguagens -->
+ <h3>Status e Linguagens</h3>
  <br>
  <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=florencioMath&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -63,7 +63,7 @@
 <br />
 
  <h3>The Snake</h3>
- <p>Nagini... Dinner!</p>
+ <p>Nagini... Jantar!</p>
  <br>
  
  <!-- Snake -->
