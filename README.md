@@ -3,17 +3,11 @@
 
 <!-- Sobre -->
 # Sobre
-<img align="right" width="30%" src="https://github.com/1matheusflorencio/1matheusflorencio/blob/main/README%20arquivos/my-octocat-1635129778574.png?raw=true">
-<br />
 
 - Sou um Software Engineer do Brasil, meu objetivo é criar ótimas experiências, me colocando no lugar do usuário e visando um produto intuitivo de qualidade.
 - Tenho mais de um ano de experiência desenvolvendo com tecnologias React e Angular, com linguagens e superset Javascript, Typescript, Java, C# e utilizando métodos ágeis.
 - Meu foco de estudo é ReactJS, React Native e Node.js usando a trilha Ignite da Rocketseat.
 - Formação em curso no último período de Análise e Desenvolvimento de Sistemas.
-<br />
-<br />
-<br />
-<br />
 <br />
 
 <!-- Social -->
