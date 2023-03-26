@@ -1,17 +1,22 @@
 <img src="readmeFiles/github-dark-mode.png?raw=true#gh-dark-mode-only">
 <img src="readmeFiles/github-light-mode.png?raw=true#gh-light-mode-only">
+<br />
 
 <!-- Sobre -->
-# Sobre
+## Sobre
 
-- Sou um Software Engineer do Brasil, meu objetivo é criar ótimas experiências, me colocando no lugar do usuário e visando um produto intuitivo de qualidade.
-- Tenho mais de um ano de experiência desenvolvendo com tecnologias React e Angular, com linguagens e superset Javascript, Typescript, Java, C# e utilizando métodos ágeis.
-- Meu foco de estudo é ReactJS, React Native e Node.js usando a trilha Ignite da Rocketseat.
-- Formação em curso no último período de Análise e Desenvolvimento de Sistemas.
+> - Como Desenvolvedor Front-end meu objetivo é criar ótimas experiências, me colocando no lugar do usuário e visando um produto intuitivo de qualidade.
+> - Desenvolvimento Front-end para ambiente web responsivo com React e Angular.
+> - Uso das linguagens Javascript, Typescript, Java e C#.
+> - Desenvolvimento orientado a padrões e princípios de qualidade de código como Clean Code e SOLID.
+> - Versionamento de código utilizando Git/Github.
+> - Criação de sistemas escaláveis;
+> - Correção de erros ou outros problemas derivados;
+> - Práticas e métodos ágeis de desenvolvimento com Scrum e Kanban
 <br />
 
 <!-- Social -->
-# Social
+## Social
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%23000000.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/florenciomath/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23000000.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/florenciomath)
