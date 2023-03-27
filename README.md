@@ -2,6 +2,8 @@
 <img src="readmeFiles/github-light-mode.png?raw=true#gh-light-mode-only">
 <br />
 
+![Visualizações do Perfil](https://komarev.com/ghpvc/?username=florencioMath&style=for-the-badge&color=7AA3C2)
+
 <!-- Sobre -->
 ## Sobre
 
@@ -27,43 +29,20 @@
 <br />
 
 <!-- Repositórios -->
- # Repositórios
- 
- <p>Here are the acronyms I use to keep repositories organized.</p>
- 
-- Personal - Meus projetos pessoais são organizados aqui;
-- Challenge - É um Desafio específico de um Curso ou vídeo da Internet;
-- Course - Aqui estão os projetos dos cursos que estou fazendo;
-- University - Aqui mantenho organizado o código dos projetos da Universidade;
-   - ADS - Quando houver esta abreviação, trata-se dos projetos do Curso de Análise e Desenvolvimento de Sistemas;
+ ## Repositórios
+<p>Aqui estão os acrônimos que uso para manter os repositórios organizados.</p>
+
+> - Personal - Meus projetos pessoais são organizados aqui;
+> - Challenge - É um Desafio específico de um Curso ou vídeo da Internet;
+> - Course - Aqui estão os projetos e acompanhamento dos cursos que estou fazendo ou já concluí;
+> - University - Aqui mantenho organizado o código dos projetos da Universidade;
+> - ADS - Quando houver esta abreviação, trata-se dos projetos do Curso de Análise e Desenvolvimento de Sistemas;
 <br />
 
-<!-- GitHub Stats  -->
- # GitHub Stats
- 
-<!-- Streak -->
- <h3>Streaks</h3>
- <br>
- 
- <div align="center">
- 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=florencioMath&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
- 
-</div>
-<br />
- 
-<!-- Status e Linguagens -->
- <h3>Status e Linguagens</h3>
- <br>
- <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=florencioMath&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=florencioMath&layout=compact&langs_count=7&theme=dark"/>
-</div>
-<br />
+<!-- Status  -->
+ ## Status
 
- <h3>The Snake</h3>
- <p>Nagini... Jantar!</p>
- <br>
- 
- <!-- Snake -->
- ![Snake animation](https://github.com/florencioMath/florencioMath/blob/output/github-contribution-grid-snake.svg)
+| [![GitHub Sequência](https://streak-stats.demolab.com?user=florenciomath&theme=transparent&hide_border=true&locale=pt_BR)](https://git.io/streak-stats) | [![GitHub Detalhes](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=florenciomath&theme=transparent)](https://github.com/vn7n24fzkq/github-profile-summary-cards)  |
+| ----------- | ----------- |
+|[![Github Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=florenciomath&layout=compact&theme=transparent&hide_border=True&line_height=20&PAT_1)](https://github.com/anuraghazra/github-readme-stats)  | [![GitHub Status](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=florenciomath&theme=transparent)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
+
