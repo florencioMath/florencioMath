@@ -20,14 +20,54 @@
 <!-- Sobre -->
 ## Sobre
 
-> - Como Desenvolvedor Front-end meu objetivo é criar ótimas experiências, me colocando no lugar do usuário e visando um produto intuitivo de qualidade.
-> - Desenvolvimento Front-end para ambiente web responsivo com React e Angular.
-> - Uso das linguagens Javascript, Typescript, Java e C#.
-> - Desenvolvimento orientado a padrões e princípios de qualidade de código como Clean Code e SOLID.
-> - Versionamento de código utilizando Git/Github.
-> - Criação de sistemas escaláveis;
-> - Correção de erros ou outros problemas derivados;
-> - Práticas e métodos ágeis de desenvolvimento com Scrum e Kanban
+>>Me chamo Matheus Florêncio e sou Desenvolvedor Front-end, tenho mais de um ano de experiência, atualmente estou no último período de Análise e Desenvolvimento de Sistemas, porém, antes de me tornar um Desenvolvedor Front-end trabalhei com atendimento ao cliente e consultor de implementação de sistema em clientes de transporte, onde desenvolvi habilidades de comunicação, trabalho com equipes diversificadas de pessoas e resolução de problemas.
+>
+>>Iniciei minha jornada com Desenvolvedor Front-end em 2021, trabalhando com React e Angular para desenvolver ambientes web responsivos, usei as linguagens Javascript, Typescript, Java e C#, sempre seguindo os padrões e princípios de qualidade de código como Clean Code e SOLID, tiver o prazer de trabalhar com equipes diversificadas, utilizando práticas e métodos ágeis como Scrum e Kanban, sempre recebendo e trocando feedbacks e melhorando com eles. O que mais tirei da minha experiência até aqui, foi de ir além da entrega, sempre buscando fazer mais do que o esperado e estar em constante movimento para contribuir com a equipe e desenvolver minha habilidades.
+>
+>Ferramentas que tenho experiência
+>>• React
+>>
+>>>• Typescript
+>>>
+>>>• ContextAPI
+>>>
+>>>• React Hook Form
+>>>
+>>>• Reducer
+>>>
+>>• Angular
+>>
+>>• Javasript
+>>
+>>• Typescript
+>>
+>>• NodeJS
+>>
+>>• API REST
+>>
+>>• Design System
+>>
+>>• Storybook
+>>
+>>• Clean Code e SOLID.
+>
+>Minhas habilidades pessoais
+>
+>>• Ir além da entrega
+>>
+>>• Aprendizagem rápida
+>>
+>>• Comunicação
+>>
+>>• Proatividade
+>>
+>>• Disciplina e dedicação
+>>
+>>• Trabalho em equipe
+>>
+>>• Experiência com troca de feedback
+>>
+>>• Metodologias ágeis, Scrum
 <br />
 
 <!-- Social -->
