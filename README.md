@@ -2,7 +2,20 @@
 <img src="readmeFiles/github-light-mode.png?raw=true#gh-light-mode-only">
 <br />
 
+<!-- Visualizações do Perfil -->
+<div align="center" display="flex">
+
 ![Visualizações do Perfil](https://komarev.com/ghpvc/?username=florencioMath&style=for-the-badge&color=7AA3C2)
+</div>
+
+
+<!-- Atalhos -->
+<p align="center">
+  <a href="#sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#social">Social</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#repositórios">Repositórios</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#status">Status</a>
+</p>
 
 <!-- Sobre -->
 ## Sobre
