@@ -95,7 +95,9 @@
 <!-- Status  -->
  ## Status
 
-| [![GitHub Sequência](https://streak-stats.demolab.com?user=florenciomath&theme=transparent&hide_border=true&locale=pt_BR)](https://git.io/streak-stats) | [![GitHub Detalhes](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=florenciomath&theme=transparent)](https://github.com/vn7n24fzkq/github-profile-summary-cards)  |
-| ----------- | ----------- |
-|[![Github Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=florenciomath&layout=compact&theme=transparent&hide_border=True&line_height=20&PAT_1)](https://github.com/anuraghazra/github-readme-stats)  | [![GitHub Status](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=florenciomath&theme=transparent)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
+<div align="center" display="flex">
 
+| [![GitHub Sequência](https://streak-stats.demolab.com?user=florenciomath&theme=transparent&hide_border=true&locale=pt_BR)](https://git.io/streak-stats) | [![Github Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=florenciomath&layout=compact&theme=transparent&hide_border=True&line_height=20&PAT_1)](https://github.com/anuraghazra/github-readme-stats)  |
+| ----------- | ----------- |
+
+</div>
