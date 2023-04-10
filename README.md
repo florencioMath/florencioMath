@@ -20,54 +20,34 @@
 <!-- Sobre -->
 ## Sobre
 
->>Me chamo Matheus Florêncio e sou Desenvolvedor Front-end, tenho mais de um ano de experiência, atualmente estou no último período de Análise e Desenvolvimento de Sistemas, porém, antes de me tornar um Desenvolvedor Front-end trabalhei com atendimento ao cliente e consultor de implementação de sistema em clientes de transporte, onde desenvolvi habilidades de comunicação, trabalho com equipes diversificadas e resolução de problemas.
+>Experiência
 >
->>Iniciei minha jornada com Desenvolvedor Front-end em 2021, trabalhando com React e Angular para desenvolver ambientes web responsivos, usei as linguagens Javascript, Typescript, Java e C#, sempre seguindo os padrões e princípios de qualidade de código como Clean Code e SOLID, tiver o prazer de trabalhar com equipes diversificadas, utilizando práticas e métodos ágeis como Scrum e Kanban, sempre recebendo e trocando feedbacks e melhorando com eles. O que mais tirei da minha experiência até aqui, foi de ir além da entrega, sempre buscando fazer mais do que o esperado e estar em constante movimento para contribuir com a equipe e desenvolver minha habilidades.
+>>React <br/>
+>>Angular <br/>
+>>Javasript <br/>
+>>Typescript <br/>
+>>NodeJS <br/>
+>>C# <br/>
+>>API REST <br/>
+>>Design System <br/>
+>>Clean Code e SOLID <br/>
 >
->Ferramentas que tenho experiência
->>• React
->>
->>>• Typescript
->>>
->>>• ContextAPI
->>>
->>>• React Hook Form
->>>
->>>• Reducer
->>>
->>• Angular
->>
->>• Javasript
->>
->>• Typescript
->>
->>• NodeJS
->>
->>• API REST
->>
->>• Design System
->>
->>• Storybook
->>
->>• Clean Code e SOLID.
+>Habilidades pessoais
+>>Metodologias ágeis, Scrum e Kanban <br/>
+>>Experiência com troca de feedback <br/>
+>>Aprendizagem rápida <br/>
+>>Trabalho em equipe <br/>
+>>Comunicação <br/>
+>>Proatividade <br/>
 >
->Minhas habilidades pessoais
+>Minha história
 >
->>• Ir além da entrega
+>>Me chamo Matheus Florêncio e sou Desenvolvedor Front-end, com mais de um ano de experiência. <br/>
 >>
->>• Aprendizagem rápida
+>>Iniciei minha jornada com Desenvolvedor Front-end em 2021, trabalhando com React e Angular para desenvolver ambientes web responsivos, usei as linguagens Javascript, Typescript, Java e C#, sempre seguindo os padrões e princípios de qualidade de código como Clean Code e SOLID. <br/>
 >>
->>• Comunicação
->>
->>• Proatividade
->>
->>• Disciplina e dedicação
->>
->>• Trabalho em equipe
->>
->>• Experiência com troca de feedback
->>
->>• Metodologias ágeis, Scrum
+>>Tive o prazer de trabalhar com equipes diversificadas, utilizando práticas e métodos ágeis como Scrum e Kanban, sempre recebendo e trocando feedbacks e melhorando com eles. <br/>
+>
 <br />
 
 <!-- Social -->
