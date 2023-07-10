@@ -40,14 +40,15 @@
 >>Comunicação <br/>
 >>Proatividade <br/>
 >
->Minha história
+>Sobre mim
 >
->>Me chamo Matheus Florêncio e sou Desenvolvedor Front-end, com mais de um ano de experiência. <br/>
->>
->>Iniciei minha jornada com Desenvolvedor Front-end em 2021, trabalhando com React e Angular para desenvolver ambientes web responsivos, usei as linguagens Javascript, Typescript, Java e C#, sempre seguindo os padrões e princípios de qualidade de código como Clean Code e SOLID. <br/>
->>
->>Tive o prazer de trabalhar com equipes diversificadas, utilizando práticas e métodos ágeis como Scrum e Kanban, sempre recebendo e trocando feedbacks e melhorando com eles. <br/>
+>>Me chamo Matheus Florêncio e sou Engenheiro de Software, com mais de um ano de experiência e formado em Análise e Desenvolvimento de Sistemas.
 >
+>>Durante minha carreira, tenho me dedicado ao desenvolvimento de sistemas escaláveis utilizando React e Angular, com as linguagens JavaScript e TypeScript, além de Java, C# e NodeJS. Sempre priorizo os padrões e princípios de qualidade de código, como Clean Code e SOLID.
+>
+>>Tive a oportunidade de trabalhar em equipes diversificadas, utilizando práticas e metodologias ágeis, como Scrum e Kanban. Valorizo a troca de feedbacks construtivos e estou sempre em busca de aprimoramento profissional.
+>
+>>Estou sempre em busca de novos desafios e oportunidades para aplicar minhas habilidades técnicas e pessoais, contribuindo para o crescimento de equipes e a entrega de resultados de alta qualidade.
 <br />
 
 <!-- Social -->
@@ -63,11 +64,15 @@
  ## Repositórios
 <p>Aqui estão os acrônimos que uso para manter os repositórios organizados.</p>
 
-> - Personal - Meus projetos pessoais são organizados aqui;
-> - Challenge - É um Desafio específico de um Curso ou vídeo da Internet;
-> - Course - Aqui estão os projetos e acompanhamento dos cursos que estou fazendo ou já concluí;
-> - University - Aqui mantenho organizado o código dos projetos da Universidade;
-> - ADS - Quando houver esta abreviação, trata-se dos projetos do Curso de Análise e Desenvolvimento de Sistemas;
+>> Personal - Meus projetos pessoais são organizados aqui;
+>
+>> Challenge - É um Desafio específico de um Curso ou vídeo da Internet;
+>
+>> Course - Aqui estão os projetos e acompanhamento dos cursos que estou fazendo ou já concluí;
+>
+>> University - Aqui mantenho organizado o código dos projetos da Universidade;
+>
+>> ADS - Quando houver esta abreviação, trata-se dos projetos do Curso de Análise e Desenvolvimento de Sistemas;
 <br />
 
 <!-- Status  -->
