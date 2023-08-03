@@ -26,8 +26,9 @@
 >>Angular <br/>
 >>Javasript <br/>
 >>Typescript <br/>
->>NodeJS <br/>
 >>C# <br/>
+>>NodeJS <br/>
+>>.NET <br/>
 >>API REST <br/>
 >>Design System <br/>
 >>Clean Code e SOLID <br/>
@@ -42,13 +43,12 @@
 >
 >Sobre mim
 >
->>Me chamo Matheus Florêncio e sou Engenheiro de Software, com mais de um ano de experiência e formado em Análise e Desenvolvimento de Sistemas.
+>>Desenvolvedor Full Stack com dois anos de experiência e formado em Análise e Desenvolvimento de Sistemas.
 >
->>Durante minha carreira, tenho me dedicado ao desenvolvimento de sistemas escaláveis utilizando React e Angular, com as linguagens JavaScript e TypeScript, além de Java, C# e NodeJS. Sempre priorizo os padrões e princípios de qualidade de código, como Clean Code e SOLID.
+>>Durante minha carreira tenho me dedicado ao desenvolvimento de sistemas escaláveis utilizando no front React e Angular, com as linguagens JavaScript, TypeScript no back C#, Node.js, e .NET. Sempre priorizando os padrões e princípios de qualidade de código, como Clean Code e SOLID.
 >
 >>Tive a oportunidade de trabalhar em equipes diversificadas, utilizando práticas e metodologias ágeis, como Scrum e Kanban. Valorizo a troca de feedbacks construtivos e estou sempre em busca de aprimoramento profissional.
 >
->>Estou sempre em busca de novos desafios e oportunidades para aplicar minhas habilidades técnicas e pessoais, contribuindo para o crescimento de equipes e a entrega de resultados de alta qualidade.
 <br />
 
 <!-- Social -->
@@ -56,7 +56,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/florenciomath/)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/florencioMath/)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16268941)
 [![Goodreads](https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white)](https://www.goodreads.com/florenciomath)
 <br />
 
