@@ -2,52 +2,56 @@
 <img src="readmeFiles/github-light-mode.png?raw=true#gh-light-mode-only">
 <br />
 
-<!-- Visualizações do Perfil -->
+<!-- Profile -->
 <div align="center" display="flex">
 
 ![Visualizações do Perfil](https://komarev.com/ghpvc/?username=florencioMath&style=for-the-badge&color=7AA3C2)
 </div>
 
 
-<!-- Atalhos -->
+<!-- Navbar -->
 <p align="center">
-  <a href="#sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#social">Social</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#repositórios">Repositórios</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#status">Status</a>
+  <a href="#repositories">Repositories</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#stats">Stats</a>
 </p>
 
-<!-- Sobre -->
-## Sobre
+<!-- About -->
+## About
 
->Experiência
+>Experience
 >
->>React <br/>
 >>Angular <br/>
+>>React <br/>
 >>Javasript <br/>
 >>Typescript <br/>
+>>Java <br/>
 >>C# <br/>
->>NodeJS <br/>
 >>.NET <br/>
 >>API REST <br/>
 >>Design System <br/>
 >>Clean Code e SOLID <br/>
 >
->Habilidades pessoais
->>Metodologias ágeis, Scrum e Kanban <br/>
->>Experiência com troca de feedback <br/>
->>Aprendizagem rápida <br/>
->>Trabalho em equipe <br/>
->>Comunicação <br/>
->>Proatividade <br/>
+>Skills
+>>Agile, Scrum and Kanban methodologies <br/>
+>>Experience with feedback exchange <br/>
+>>Fast learning <br/>
+>>Team work <br/>
+>>Communication <br/>
+>>Proactivity <br/>
 >
->Sobre mim
+>About me
 >
->>Desenvolvedor Full Stack com dois anos de experiência e formado em Análise e Desenvolvimento de Sistemas.
+>>Full Stack Developer with two years of experience and graduated in Systems Analysis and Development.
 >
->>Durante minha carreira tenho me dedicado ao desenvolvimento de sistemas escaláveis utilizando no front React e Angular, com as linguagens JavaScript, TypeScript no back C#, Node.js, e .NET. Sempre priorizando os padrões e princípios de qualidade de código, como Clean Code e SOLID.
+>>During my career I have been dedicated to the development of scalable systems using React and Angular 
+on the front, with JavaScript languages, TypeScript on the back C#, Node.js, and .NET. Always 
+prioritizing code quality standards and principles, such as Clean Code and SOLID.
 >
->>Tive a oportunidade de trabalhar em equipes diversificadas, utilizando práticas e metodologias ágeis, como Scrum e Kanban. Valorizo a troca de feedbacks construtivos e estou sempre em busca de aprimoramento profissional.
+>>I had the opportunity to work in diverse teams, using agile practices and methodologies, such as Scrum 
+and Kanban. I value the exchange of constructive feedback and I am always looking for professional 
+improvement.
 >
 <br />
 
@@ -59,23 +63,23 @@
 [![Goodreads](https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white)](https://www.goodreads.com/florenciomath)
 <br />
 
-<!-- Repositórios -->
- ## Repositórios
-<p>Aqui estão os acrônimos que uso para manter os repositórios organizados.</p>
+<!-- Repositories -->
+ ## Repositories
+<p>Here are the acronyms I use to keep repositories organized.</p>
 
->> Personal - Meus projetos pessoais são organizados aqui;
+>> Personal - My personal projects are organized here;
 >
->> Challenge - É um Desafio específico de um Curso ou vídeo da Internet;
+>> Challenge - It is a specific Challenge from a Course or Internet video;
 >
->> Course - Aqui estão os projetos e acompanhamento dos cursos que estou fazendo ou já concluí;
+>> Course - Here are the projects and monitoring of the courses I am taking or have already completed;
 >
->> University - Aqui mantenho organizado o código dos projetos da Universidade;
+>> University - Here I keep the University project code organized;
 >
->> ADS - Quando houver esta abreviação, trata-se dos projetos do Curso de Análise e Desenvolvimento de Sistemas;
+>> ADS - When there is this abbreviation, these are projects from the Systems Analysis and Development Course;
 <br />
 
-<!-- Status  -->
- ## Status
+<!-- Stats  -->
+ ## Stats
 
 <div align="center" display="flex">
 
