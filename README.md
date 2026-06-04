@@ -2,29 +2,37 @@
 <img src="readmeFiles/github-light-mode.png?raw=true#gh-light-mode-only">
 
 <!-- About -->
-## Software Engineer | Full Stack Developer | Front-End Specialist
+## Software Engineer | Front-End Specialist | Full Stack Developer
 
-Full Stack Developer with over 4 years of experience building modern web applications for enterprise environments.
+Full Stack Software Engineer with over 4 years of experience building web and mobile applications for enterprise environments.
 <br />
-I work across the entire software development lifecycle, contributing to both Front-End and Back-End solutions. My primary expertise is in React, Angular and TypeScript, combined with hands-on experience developing APIs, integrations and business logic using Java, Spring Boot and .NET.
+
+My primary expertise is in Front-End development using React, Angular, TypeScript, and React Native, combined with hands-on experience designing APIs, integrations, and business solutions using Java, Spring Boot, and .NET.
 <br />
-My focus is on system modernization, scalable architecture, platform integration and building maintainable software solutions that deliver long-term business value.
+
+Currently contributing to the evolution of an ecosystem composed of dozens of full-stack applications, delivering web and mobile solutions used in large-scale operations, system integrations, and enterprise modernization initiatives.
+<br />
+
+I also have experience developing, publishing, and maintaining mobile applications with React Native and Expo, including build, release, and version management processes for Google Play Store and Apple App Store.
+<br />
+
+My focus is on scalable architecture, system integration, automated testing, software quality, and building maintainable solutions that deliver long-term business value.
 <br />
 
 <!-- Social -->
 ## Tech Stack
 
-**Front-End**
-<br />
-React • Angular • TypeScript • JavaScript • Tailwind CSS • React Query • Zustand • Vitest • Testing Library
-<br />
-
-**Back-End**
-<br />
-Java • Spring Boot • C# • .NET • REST APIs • PostgreSQL • SQL
+### Front-End
+React • Angular • React Native • Expo • TypeScript • JavaScript • Tailwind CSS • React Query • Zustand • Vitest • Testing Library
 <br />
 
-**DevOps & Tools**
+### Back-End
+Java • Spring Boot • C# • .NET • Entity Framework • REST APIs • PostgreSQL • SQL
 <br />
+
+### DevOps & Tools
 Docker • Jenkins • Azure DevOps • Git • Git Flow • CI/CD
 <br />
+
+### Software Quality
+Vitest • Testing Library • JUnit • Testcontainers
