@@ -2,37 +2,41 @@
 <img src="readmeFiles/github-light-mode.png?raw=true#gh-light-mode-only">
 
 <!-- About -->
-## Software Engineer | Front-End Specialist | Full Stack Developer
+## Software Engineer | Full Stack Developer | AI-Assisted Engineering
 
-Full Stack Software Engineer with over 4 years of experience building web and mobile applications for enterprise environments.
+Software Engineer with 5+ years of experience building web and mobile applications for enterprise environments, working across different stages of the software development lifecycle.
 <br />
 
-My primary expertise is in Front-End development using React, Angular, TypeScript, and React Native, combined with hands-on experience designing APIs, integrations, and business solutions using Java, Spring Boot, and .NET.
+I work across the Full Stack with React, React Native, Java and Spring Boot, C# and .NET, and PostgreSQL, contributing to the development and evolution of applications, APIs, integrations, and mobile solutions used in large-scale operations.
 <br />
 
-Currently contributing to the evolution of an ecosystem composed of dozens of full-stack applications, delivering web and mobile solutions used in large-scale operations, system integrations, and enterprise modernization initiatives.
+AI has become an important part of my engineering workflow. I use AI agents to support software development, code analysis, test creation and evolution, and problem investigation. I use the productivity gained from AI not simply to produce more code, but to improve the quality and reliability of the software I deliver.
 <br />
 
-I also have experience developing, publishing, and maintaining mobile applications with React Native and Expo, including build, release, and version management processes for Google Play Store and Apple App Store.
+I have been expanding my focus on Quality Engineering practices, including automated, regression, load, and stress testing, as well as software security, secure development, and observability.
 <br />
 
-My focus is on scalable architecture, system integration, automated testing, software quality, and building maintainable solutions that deliver long-term business value.
+I also consider performance, maintainability, operational cost, and solution impact throughout the development process, with a focus on building reliable and sustainable software aligned with business goals.
 <br />
 
-<!-- Social -->
+<!-- Tech Stack -->
 ## Tech Stack
 
 ### Front-End
-React • Angular • React Native • Expo • TypeScript • JavaScript • Tailwind CSS • React Query • Zustand • Vitest • Testing Library
+React • Angular • React Native • Expo • TypeScript • JavaScript • Tailwind CSS • React Query • Zustand
 <br />
 
 ### Back-End
 Java • Spring Boot • C# • .NET • Entity Framework • REST APIs • PostgreSQL • SQL
 <br />
 
+### Testing & Quality
+Vitest • Testing Library • JUnit • Testcontainers • Automated Testing • Regression Testing • Load Testing • Stress Testing
+<br />
+
 ### DevOps & Tools
 Docker • Jenkins • Azure DevOps • Git • Git Flow • CI/CD
 <br />
 
-### Software Quality
-Vitest • Testing Library • JUnit • Testcontainers
+### Engineering Focus
+AI-Assisted Engineering • Quality Engineering • Software Security • Performance Testing • Observability
